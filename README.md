@@ -1,4 +1,4 @@
-# aws-sensehat
+# aws-sensehat An Amazing Project
 Python script for sending Sense Hat data to AWS IoT
 
 *This script runs on a Raspberry Pi with Sense Hat*
